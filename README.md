@@ -6,14 +6,14 @@ This project consists of around 100k records of appointment data from Brazil's p
 Interested to find : No Shows
 
 Variables considered for Investigation : 
-<ul>1.Age 
-2.Gender 
-3.Various Health issues(Alcoholism, Diabetes, Hypertension) 
-4.Disabilities/Handicaps 
-5.Sms received 
-6.Patients with multiple appointments 
-7.Neighbourhood 
-8.Appointment Date 
+<ul>1.Age </ul>
+<ul>2.Gender </ul>
+<ul>3.Various Health issues(Alcoholism, Diabetes, Hypertension) </ul>
+<ul>4.Disabilities/Handicaps </ul>
+<ul>5.Sms received </ul>
+<ul>6.Patients with multiple appointments </ul>
+<ul>7.Neighbourhood </ul>
+<ul>8.Appointment Date </ul>
 
 <b>Questions Posed: </b>
 1. Does a patient with multiple appointments with multiple number of show ups in the past effect the future probability of showing up? 
