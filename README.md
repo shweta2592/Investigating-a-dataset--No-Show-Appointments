@@ -7,13 +7,13 @@ Interested to find : No Shows
 
 Variables considered for Investigation : 
 <ul>1.Age 
-<ul>2.Gender 
-<ul>3.Various Health issues(Alcoholism, Diabetes, Hypertension) 
-<ul>4.Disabilities/Handicaps 
-<ul>5.Sms received 
-<ul>6.Patients with multiple appointments 
-<ul>7.Neighbourhood 
-<ul>8.Appointment Date 
+2.Gender 
+3.Various Health issues(Alcoholism, Diabetes, Hypertension) 
+4.Disabilities/Handicaps 
+5.Sms received 
+6.Patients with multiple appointments 
+7.Neighbourhood 
+8.Appointment Date 
 
 <b>Questions Posed: </b>
 1. Does a patient with multiple appointments with multiple number of show ups in the past effect the future probability of showing up? 
