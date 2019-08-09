@@ -2,7 +2,7 @@
 
 <h3>Introduction</h3>
 This project consists of around 100k records of appointment data from Brazil's public hospitals. The main aim of this project is to investigate if there exists a relationship between various columns of the dataset and most importantly find if a patient shows up for his scheduled appointment. 
-
+<br>
 Tools used : Python -Pandas,numpy,matplotlib
 <br>Interested to find : No Shows
 
